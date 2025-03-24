@@ -1,0 +1,42 @@
+body {
+  background-color: azure;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+p {
+  font-family: "Georgia", "Times New Roman", Times, serif;
+  color: rgb(3, 2, 0);
+}
+
+#box {
+  width: 200px;
+  padding: 10px;
+  margin: 20px;
+  margin-left: 10rem;
+  border: 2px solid black;
+}
+
+.italic {
+  font-style: italic;
+  background-color: rgb(151, 188, 188);
+  padding: 0.2rem;
+  border-radius: 0.3rem;
+}
+
+.bold {
+  font-weight: bold;
+  /* background-color: rgb(151, 188, 188); */
+  padding: 0.2rem;
+  border-radius: 0.3rem;
+}
+
+.img2,
+.img1 {
+  margin-left: 10rem;
+  width: 300px;
+  height: 300px;
+}
